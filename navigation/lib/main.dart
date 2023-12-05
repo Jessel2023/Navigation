@@ -95,7 +95,7 @@ class SecondPage extends StatelessWidget {
                     onPressed: () {
                       Navigator.pop(context);
                     },
-                    child: const Text("Go to 1st Page"),
+                    child: const Text("Go to First Page"),
                   ),
                 ],
               ),
